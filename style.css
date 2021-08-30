@@ -1,3 +1,7 @@
+body{
+    margin: 0px;
+}
+
 header{
     height: 65vh;
     opacity: 0.9;
